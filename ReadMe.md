@@ -1,4 +1,4 @@
-# Java Coding Challenge
+## Java Coding Challenge
 
 Developed on Linux Sublime
 
