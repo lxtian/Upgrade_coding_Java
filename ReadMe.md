@@ -22,4 +22,7 @@ Compile the java program
 ```sh
 $ javac *.java
 ```
-
+Start from the driver
+```sh
+$ java Driver
+```
