@@ -13,6 +13,7 @@ For the challenge:
   - Four tables (User, Account, TransactionRecord, UserLog) in database
   - Able to deal with concurrency (try open several command lines at the same time and log in to different accounts to try that)
   - Use of MD5 to store the password in the database
+  - Don't use ctrl-c to exit the program when you are logged in (Log in record won't be cleared from the database)
 
 
 ## How to build this project
