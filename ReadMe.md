@@ -1,11 +1,11 @@
 # Java Coding Challenge
 
-Developed on Linux Sublime
+Developed on Ubuntu
 
-Java version
-openjdk version "1.8.0_181"
-OpenJDK Runtime Environment (build 1.8.0_181-8u181-b13-0ubuntu0.16.04.1-b13)
-OpenJDK 64-Bit Server VM (build 25.181-b13, mixed mode)
+Java version<br/>
+openjdk version "1.8.0_181"<br/>
+OpenJDK Runtime Environment (build 1.8.0_181-8u181-b13-0ubuntu0.16.04.1-b13)<br/>
+OpenJDK 64-Bit Server VM (build 25.181-b13, mixed mode)<br/>
 
 For the challenge:  
   - One user account cannot be logged in at the same time
