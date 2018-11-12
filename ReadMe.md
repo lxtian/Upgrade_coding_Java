@@ -18,6 +18,8 @@ Build the database first
 ```sh
 $ sqlite3 Bank.db < databasecommand.sql
 ```
-
-
+Compile the java program
+```sh
+$ javac *.java
+```
 
